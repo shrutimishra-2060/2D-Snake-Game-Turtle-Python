@@ -15,3 +15,5 @@ import turtle
 
 #### About Game:
 This project uses two mian turtles: one to draw the caterpillar and one to draw the leaves. The code places each new leaf at a random location. When the progrsasm detects that a leaf has been eaten, the variables storing the score, the speed of the caterpillar, and its length are increased. A funtion figures out if the caterpillar has moved outsdie the window, which would signal the end of the game. 
+
+![2021-06-10](https://user-images.githubusercontent.com/72453151/121467217-5ae3e080-c9d6-11eb-80e3-9f9bd5ee3a34.png)
